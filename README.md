@@ -1,1 +1,18 @@
-# website
+# SWE Website
+This is a [Next.js](https://nextjs.org/) project.
+
+## Getting started
+
+First, run development server
+
+```bash 
+npm run dev
+# or
+yarn dev
+# or 
+pnpm dev
+# or
+bun dev
+```
+
+Open[http://localhost:3000](http://localhost:3000) with your browser to see results. 
