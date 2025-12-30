@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <main>
-      <div className="text-3xl font-bold text-purple-600">
+      <h1 className="text-green-400 text-4xl font-bold">
         Tailwind v4 is working
-      </div>
+      </h1>
     </main>
   );
 }
