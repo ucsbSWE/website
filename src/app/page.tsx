@@ -1,6 +1,6 @@
 export default function Home() {
-  return <div className="m-10 p-10 bg-black text-white text-5xl rotate-2">
-  IF THIS IS STYLED, TAILWIND WORKS
+  return <div className="m-10 p-10 text-black text-5xl">
+  The Society of Women Engineers @ UCSB
 </div>
 ;
 }
